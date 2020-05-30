@@ -1,0 +1,149 @@
+likes,main_category,no_faces,avg_age,date,adult_score,color_fg,color_bg,tags,objects
+321112,people,0,0,2017-06-24,0.0050703175365924835,Pink,Pink,woman person dress clothing,person
+245154,building,0,0,2017-06-25,0.0034980420023202896,White,Grey,sky outdoor,plant
+279328,others,1,53.0,2017-07-03,0.004772189073264599,White,Black,text,person
+299499,people,0,0,2017-07-05,0.06988058984279633,Black,Pink,person food outdoor,person
+314749,others,0,0,2017-07-07,0.004627025220543146,Grey,Black,tree outdoor sky ground clothing person,car car car car person
+359672,indoor,0,0,2017-07-15,0.014168448746204376,Pink,Pink,ground cartoon footwear clothing person text,person person person person person
+320286,abstract,0,0,2017-07-19,0.56220942735672,Grey,Grey,person outdoor fashion footwear,person
+280828,others,0,0,2017-07-25,0.07425449788570404,Black,White,person food,
+289101,outdoor,0,0,2017-07-31,0.11076456308364868,Black,Grey,tree outdoor ground clothing person woman footwear,person
+285725,outdoor,0,0,2017-08-01,0.39958325028419495,Black,Grey,tree outdoor clothing person,person
+249497,outdoor,0,0,2017-08-01,0.004100834019482136,Grey,Grey,outdoor,
+308938,food,0,0,2017-08-02,0.0014327698154374957,White,White,food,bowl bowl cup
+353655,people,1,24.0,2017-08-09,0.30342385172843933,Black,Purple,clothing person human_face woman smile fashion,person person
+306558,None,0,0,2017-08-23,0.00032593630021438,Yellow,White,food,dog person
+312953,others,3,30.666666666666668,2017-08-25,0.00813923217356205,White,White,human_face person clothing woman text smile girl,person person person
+359016,outdoor,1,25.0,2017-08-30,0.0015099489828571677,White,White,person indoor food cartoon,person
+324183,others,1,23.0,2017-08-30,0.0016298152040690184,Black,Pink,person woman human_face fashion girl clothing,person
+263805,others,0,0,2017-08-31,0.0676010474562645,White,White,footwear,
+253211,others,0,0,2017-09-01,0.13884223997592926,White,White,,person
+404418,people,1,21.0,2017-09-03,0.026050539687275887,Black,White,outdoor sky person girl clothing fashion woman,luggage_and_bags person
+286225,others,1,22.0,2017-09-05,0.029140030965209007,Black,Black,person fashion_accessory clothing human_face fashion smile,person
+298640,abstract,1,24.0,2017-09-05,0.009691241197288036,Black,Black,clothing person human_face fashion fashion_accessory dress woman,person
+345783,others,0,0,2017-09-12,0.02083723247051239,Black,Black,person woman clothing fashion human_face smile girl,person
+220598,abstract,0,0,2017-09-18,0.011269145645201206,White,White,cartoon text,
+334442,others,0,0,2017-09-24,0.01170614454895258,Black,Black,cartoon person human_face smile clothing,
+347939,outdoor,1,31.0,2017-09-25,0.012809847481548786,Grey,Grey,tree outdoor clothing ground person footwear woman smile girl,person
+272511,others,0,0,2017-09-27,0.048566535115242004,Blue,Blue,clothing dress person woman human_face fashion,person person
+267687,others,0,0,2017-09-27,0.25876563787460327,Black,Yellow,cartoon food,person
+335409,people,1,25.0,2017-10-02,0.0017915790667757392,Black,Black,person woman human_face smile clothing fashion posing fashion_accessory girl,person
+239291,outdoor,0,0,2017-10-06,0.0018464166205376387,Grey,Grey,outdoor tree ground,
+290130,people,2,25.5,2017-10-07,0.0022698170505464077,Black,White,person sky outdoor human_face woman fashion_accessory posing clothing girl,person person
+232165,others,1,24.0,2017-10-07,0.0038543229456990957,Black,White,text person clothing smile posing,luggage_and_bags person
+288476,others,0,0,2017-10-10,0.12211555987596512,Black,Grey,person,
+363407,people,2,17.5,2017-10-18,0.009730711579322815,Pink,Grey,person human_face clothing woman smile girl,plant person person
+210687,others,1,26.0,2017-10-22,0.00316256913356483,Pink,Blue,cartoon text,person plant
+330652,outdoor,1,23.0,2017-10-23,0.012276554480195045,Black,Grey,sky tree outdoor clothing person woman footwear,person
+238807,others,0,0,2017-10-24,0.015964439138770103,White,White,,
+334827,people,1,29.0,2017-10-25,0.004258225206285715,Black,White,tree outdoor person,person dog
+273787,others,0,0,2017-10-28,0.035973407328128815,Black,White,fashion_accessory,
+339006,plant,1,24.0,2017-10-28,0.002729767933487892,Brown,Brown,tree outdoor ground,person
+324683,people,5,29.6,2017-10-31,0.022648783400654793,Black,Red,person clothing posing smile footwear text woman human_face,person person person person person
+341336,outdoor,1,27.0,2017-11-01,0.0029142899438738823,Black,Grey,outdoor person clothing footwear fashion woman,person
+370045,building,1,25.0,2017-11-03,0.005466668400913477,White,White,outdoor sky ground clothing footwear person woman,person
+298699,building,0,0,2017-11-04,0.0015543309273198247,Black,Black,sky outdoor,plant person
+325906,others,0,0,2017-11-05,0.014680463820695877,Red,Black,sky,
+264952,others,0,0,2017-11-12,0.005730663891881704,Black,White,cartoon text,
+341215,others,1,21.0,2017-11-14,0.0252874493598938,Red,Blue,person clothing,person
+336921,plant,0,0,2017-11-16,0.002583208493888378,White,Brown,cartoon,person
+269683,others,0,0,2017-11-17,0.014878259040415287,Black,Yellow,indoor fashion_accessory,luggage_and_bags
+296982,others,1,21.0,2017-11-21,0.013431449420750141,Black,Black,indoor person human_face clothing text woman,person person
+392531,people,1,23.0,2017-11-21,0.002945930464193225,Red,Black,text dress person woman fashion clothing footwear,person
+314898,plant,0,0,2017-11-27,0.00682130316272378,Black,Black,person,
+263156,abstract,0,0,2017-12-01,0.010667952708899975,Black,Pink,text,
+288047,people,1,24.0,2017-12-02,0.014891574159264565,White,White,text person fashion_accessory woman human_face clothing girl posing,person
+267562,abstract,0,0,2017-12-19,0.12325038760900497,Yellow,Yellow,person fashion_accessory,
+253778,abstract,0,0,2017-12-24,0.0023079824168235064,White,White,,
+316056,others,0,0,2017-12-25,0.0031460647005587816,White,White,,dog
+367592,outdoor,1,22.0,2017-12-30,0.004848056472837925,White,White,person clothing,plant person
+320799,outdoor,0,0,2018-01-11,0.009759261272847652,Black,Blue,outdoor sky tree person clothing posing,person
+307599,people,3,22.666666666666668,2018-01-12,0.07598031312227249,Black,Grey,person fashion_accessory human_face smile clothing cartoon,dog person dog person person person
+353831,outdoor,1,27.0,2018-01-13,0.00364448013715446,Black,Grey,sky outdoor ground clothing woman person footwear smile girl,person
+259772,others,0,0,2018-01-14,0.0007820733007974923,White,Brown,food,cup
+296042,None,0,0,2018-01-15,0.027636976912617683,Green,Red,,
+365223,others,1,24.0,2018-01-17,0.004667960572987795,Red,White,outdoor ground clothing text person fashion woman smile posing girl human_face,person
+307199,others,0,0,2018-01-18,0.005152098834514618,Pink,Pink,,
+337757,people,1,26.0,2018-01-24,0.00686609884724021,Black,Grey,person outdoor human_face girl clothing fashion_accessory woman smile,person
+344746,others,1,27.0,2018-01-29,0.3149706721305847,Black,Purple,person human_face woman fashion_accessory smile clothing girl posing,person
+224852,outdoor,0,0,2018-02-15,0.0038094751071184874,Grey,Blue,outdoor sky,
+344315,abstract,0,0,2018-02-15,0.0762559100985527,White,White,,luggage_and_bags
+265244,others,1,22.0,2018-02-15,0.027516933158040047,Black,Black,cartoon text,
+325193,people,1,22.0,2018-02-17,0.18552811443805695,Pink,White,woman person clothing human_face indoor girl fashion,person
+322468,people,0,0,2018-02-20,0.6606225967407227,Pink,Pink,indoor,
+310931,outdoor,0,0,2018-02-22,0.02167666144669056,Grey,Grey,outdoor clothing,person car
+395925,others,1,24.0,2018-02-22,0.016030162572860718,White,White,person clothing indoor human_face smile woman,person
+373242,people,1,25.0,2018-02-25,0.008357587270438671,White,Black,,person
+279814,others,1,24.0,2018-03-01,0.00509021058678627,White,White,clothing fashion woman person dress footwear text fashion_accessory,person
+214179,None,0,0,2018-03-02,0.009676224552094936,Grey,Blue,tree outdoor,
+148234,abstract,0,0,2018-03-05,0.004851872567087412,Purple,Orange,text,
+190253,people,0,0,2018-03-07,0.039095986634492874,Red,White,human_face smile person outdoor clothing woman text girl,person
+339856,people,1,22.0,2018-03-09,0.0242068562656641,Black,Black,tree person outdoor human_face clothing posing,person
+277385,others,1,27.0,2018-03-09,0.004849122371524572,Black,Black,person clothing ground human_face fashion footwear girl,person
+226312,others,0,0,2018-03-10,0.13711513578891754,Pink,White,person indoor text,person dog
+309407,others,0,0,2018-03-13,0.4224596321582794,Orange,White,person woman clothing fashion footwear,
+292836,others,1,24.0,2018-03-17,0.018068045377731323,White,Black,person woman clothing human_face,person
+261461,None,0,0,2018-03-17,0.006191248074173927,White,White,indoor,dog
+224434,others,1,22.0,2018-03-20,0.5228782892227173,Blue,Black,person smile human_face clothing,person
+262000,people,1,27.0,2018-03-20,0.02048085629940033,Pink,White,person indoor food smile clothing,bowl cup person
+266707,people,1,25.0,2018-03-21,0.05208299681544304,White,White,smile cartoon human_face clothing person,person
+265045,others,0,0,2018-03-23,0.24161210656166077,White,Grey,person,
+278925,others,1,27.0,2018-03-24,0.003285297891125083,Red,Pink,person text clothing posing,person
+253267,people,7,29.714285714285715,2018-04-07,0.07826725393533707,White,Black,person human_face clothing smile cartoon woman posing,person person person person person person person person
+264316,others,0,0,2018-04-10,0.006684456951916218,Grey,Grey,fashion_accessory,
+249920,people,1,23.0,2018-04-12,0.04725828021764755,White,White,person girl clothing human_face smile,person
+189228,abstract,0,0,2018-04-13,0.000696480565238744,White,Pink,food,donut donut donut donut donut donut donut donut donut donut donut donut donut luggage_and_bags
+251318,others,0,0,2018-04-16,0.015193917788565159,Brown,White,food,cup bowl
+207064,abstract,0,0,2018-04-16,0.41755107045173645,White,Grey,footwear person clothing,
+234313,others,1,33.0,2018-04-16,0.3237110674381256,White,Grey,outdoor person clothing human_face,person
+226088,others,1,22.0,2018-04-16,0.08056128770112991,Red,Black,person food human_face girl,person
+255457,others,1,22.0,2018-04-19,0.022791948169469833,Pink,Pink,cartoon,person
+168465,others,0,0,2018-04-21,0.019138934090733528,White,Black,text person cartoon,person
+201293,people,1,25.0,2018-04-21,0.0031762311700731516,Pink,White,person indoor human_face food,plant person
+148987,food,0,0,2018-04-24,0.02072872221469879,Black,Black,food,bowl cup bowl
+164433,others,1,22.0,2018-04-24,0.007023452315479517,Pink,Pink,human_face cartoon person woman,
+147591,abstract,0,0,2018-04-24,0.04044437035918236,Grey,Grey,,
+228160,others,0,0,2018-04-26,0.051133546978235245,Grey,White,indoor,dog
+232930,None,0,0,2018-05-20,0.003702391404658556,Green,Green,,
+181666,abstract,0,0,2018-05-21,0.07774294167757034,Yellow,Yellow,cartoon,
+146832,others,0,0,2018-05-26,0.04296218603849411,Blue,Blue,text,person
+258336,others,1,24.0,2018-05-27,0.010905584320425987,White,White,outdoor person clothing girl fashion woman fashion_accessory,car car person
+168477,abstract,1,23.0,2018-06-01,0.026988310739398003,White,White,footwear person clothing text cartoon woman,person person
+209434,None,0,0,2018-06-02,0.22951702773571014,White,White,,person
+245398,people,0,0,2018-06-05,0.008387242443859577,Pink,Pink,outdoor person clothing,person person person
+311685,people,1,23.0,2018-06-09,0.005218849051743746,White,White,person human_face clothing woman girl smile fashion fashion_accessory,person
+184123,others,0,0,2018-06-09,0.1391858458518982,Black,White,person clothing text,person
+314723,people,2,24.5,2018-06-09,0.003783648833632469,White,White,text dress clothing person woman smile posing human_face,person person
+243112,people,1,32.0,2018-06-15,0.0032628339249640703,Pink,White,person fashion_accessory human_face smile clothing woman fashion girl,person
+241804,others,0,0,2018-06-20,0.007851683534681797,Yellow,White,,person
+245839,people,3,28.0,2018-06-29,0.009069082327187061,Pink,Black,person clothing smile human_face dress woman posing girl fashion,person person person person
+161398,None,0,0,2018-06-29,0.006891144439578056,White,White,,plant plant
+326846,others,1,32.0,2018-07-02,0.003944401163607836,Grey,Grey,outdoor ground person woman clothing girl footwear smile,car person
+421728,people,2,49.5,2018-07-29,0.006080364342778921,White,White,person smile human_face outdoor clothing woman posing,person person
+231701,None,0,0,2018-08-11,0.16629771888256073,Black,Green,,
+300800,others,1,26.0,2018-08-26,0.00270517123863101,White,White,outdoor sky clothing ground footwear woman person fashion_accessory human_face smile fashion,person
+174247,people,0,0,2018-08-29,0.13679951429367065,Pink,Pink,person dress fashion_accessory clothing human_face woman,person
+206157,abstract,0,0,2018-09-01,0.011728208512067795,White,Grey,person clothing footwear outdoor text,person person
+203058,others,1,23.0,2018-09-03,0.011816829442977905,Black,White,person fashion_accessory smile clothing woman human_face,cup person
+175800,others,0,0,2018-09-11,0.24918706715106964,Grey,Grey,person footwear,
+230102,others,1,31.0,2018-09-11,0.0032744798809289932,Grey,Grey,sky person clothing outdoor girl smile footwear,person
+175932,others,0,0,2018-09-20,0.0065490626730024815,White,White,girl clothing text human_face person,luggage_and_bags person
+138703,others,0,0,2018-09-21,0.038259755820035934,Black,Black,text food indoor,
+203844,people,0,0,2018-09-21,0.03925540670752525,White,White,person woman girl human_face fashion_accessory clothing smile,cup person
+201167,outdoor,1,30.0,2018-09-23,0.007307293359190226,Grey,White,clothing outdoor woman footwear person text smile fashion dress girl,person person
+155556,building,0,0,2018-09-24,0.004050096496939659,Grey,White,sky outdoor,
+170175,people,1,25.0,2018-09-25,0.019477711990475655,Pink,Pink,person fashion_accessory human_face clothing smile woman girl,person
+195464,others,0,0,2018-09-28,0.01244366355240345,Black,White,person clothing woman sky text girl human_face,person
+262438,others,0,0,2018-10-12,0.04571736603975296,Grey,Black,person fashion clothing girl text woman dress,person
+275990,people,1,26.0,2018-10-20,0.031796205788850784,Orange,Black,person indoor clothing girl human_face fashion footwear woman,person
+208256,abstract,1,30.0,2018-12-28,0.007404020056128502,White,White,indoor,plant
+253168,people,1,28.0,2018-12-30,0.08750196546316147,Purple,Grey,person fashion_accessory clothing human_face fashion woman girl,
+274486,None,0,0,2019-01-05,0.0021216433960944414,Brown,Black,indoor,dog dog
+268753,indoor,1,22.0,2019-01-07,0.0070318435318768024,White,White,clothing ground person fashion_accessory smile human_face woman footwear,person person
+156050,others,1,25.0,2019-01-16,0.004338135942816734,Black,Green,clothing indoor footwear person human_face cartoon,person
+220020,people,1,24.0,2019-01-20,0.04679597541689873,White,White,fashion person dress clothing woman fashion_accessory girl human_face posing,person
+213281,others,1,22.0,2019-01-27,0.013318666256964207,Black,White,outdoor person clothing,person person
+165512,people,1,22.0,2019-01-31,0.01919710449874401,Yellow,Yellow,person woman human_face,person
+161626,people,2,22.5,2019-02-14,0.002382736885920167,Pink,White,human_face clothing fashion woman person fashion_accessory girl posing,person person
+113107,abstract,2,26.0,2019-02-28,0.06981606036424637,White,White,text cartoon human_face,person person person
+218125,people,1,29.0,2019-03-04,0.009690742008388042,Black,Grey,person indoor fashion girl clothing dress,person
